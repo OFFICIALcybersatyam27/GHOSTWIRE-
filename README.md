@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/OFFICIALcybersatyam27/GHOSTWIRE-/blob/main/.imgs/GHOSTWIRE.png"><img src=".imgs/1demo.png" alt="GHOSTWIRE"></a>
+  <a href="https://github.com/OFFICIALcybersatyam27/GHOSTWIRE-/blob/main/.imgs/GHOSTWIRE.png"alt="GHOSTWIRE"></a>
 
 </h1>
 
